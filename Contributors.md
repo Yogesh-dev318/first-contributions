@@ -1,4 +1,5 @@
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
+- [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 - [ralf-meca](https://github.com/ralf-meca)
 - [vikas-kushwaha-dev](https://github.com/vikas-kushwaha-dev)
 - [Anuj Giri](https://github.com/anujgiri1279)
@@ -5074,3 +5075,4 @@ _[Maliha Ehsan](https://github.com/malihae/)
 Hey guys, just like you people, now I have also made my contribution to this repo.
 - [Yashwanth S Gowda](https://github.com/yashuksgowda26-cloud)
 - [alianeabdeslamyanis18-glitch](https://github.com/alianeabdeslamyanis18-glitch)
+- [**Ayesha Noor**](https://github.com/noctis-coder)
